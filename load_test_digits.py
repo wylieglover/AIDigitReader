@@ -1,8 +1,6 @@
 from PIL import Image, ImageOps
 from pathlib import Path
-import glob
 import numpy as np
-import sys
 import mnist_loader
 import network
 
