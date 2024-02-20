@@ -7,5 +7,9 @@ Before starting, make sure you have at least these components installed on your 
 - Pillow
 - numpy
 
+Start by cloning this repository into a local folder/directory:
+```sh
+git clone https://github.com/wylieglover/dataliteracy
+```
 
-You'll need to run the ```load_test_digits.py``` file and that's it! Look to the console for the outputed success rate for each epoch!
+You'll need to run the ```load_test_digits.py``` file next and that's it! Look to the console for the outputed success rate for each epoch!
